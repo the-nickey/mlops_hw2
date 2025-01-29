@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pvochkin/Desktop/%D0%A3%D1%87%D0%B5%CC%88%D0%B1%D0%B0/MLOps/mlops_hw2/mlruns/374258351021155837/c5760ca666aa49cdafe3c962a3f94695/artifacts
+end_time: 1738185796100
+entry_point_name: ''
+experiment_id: '374258351021155837'
+lifecycle_stage: active
+run_id: c5760ca666aa49cdafe3c962a3f94695
+run_name: handsome-fly-70
+run_uuid: c5760ca666aa49cdafe3c962a3f94695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738185781849
+status: 3
+tags: []
+user_id: pvochkin

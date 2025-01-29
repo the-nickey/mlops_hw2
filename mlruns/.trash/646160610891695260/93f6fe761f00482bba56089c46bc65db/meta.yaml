@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pvochkin/Desktop/%D0%A3%D1%87%D0%B5%CC%88%D0%B1%D0%B0/MLOps/mlops_hw2/mlruns/646160610891695260/93f6fe761f00482bba56089c46bc65db/artifacts
+deleted_time: 1738183515833
+end_time: 1738183432882
+entry_point_name: ''
+experiment_id: '646160610891695260'
+lifecycle_stage: deleted
+run_id: 93f6fe761f00482bba56089c46bc65db
+run_name: clumsy-squirrel-256
+run_uuid: 93f6fe761f00482bba56089c46bc65db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738183429155
+status: 3
+tags: []
+user_id: pvochkin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pvochkin/Desktop/%D0%A3%D1%87%D0%B5%CC%88%D0%B1%D0%B0/MLOps/mlops_hw2/mlruns/874411084966587007/fc8e15b3ffd04aada37d90b3f94e3241/artifacts
+end_time: 1738183479867
+entry_point_name: ''
+experiment_id: '874411084966587007'
+lifecycle_stage: active
+run_id: fc8e15b3ffd04aada37d90b3f94e3241
+run_name: incongruous-slug-192
+run_uuid: fc8e15b3ffd04aada37d90b3f94e3241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738183476382
+status: 3
+tags: []
+user_id: pvochkin

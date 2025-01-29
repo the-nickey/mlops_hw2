@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pvochkin/Desktop/%D0%A3%D1%87%D0%B5%CC%88%D0%B1%D0%B0/MLOps/mlops_hw2/mlruns/874411084966587007/a784f4b8b8504389bf1111442b9e5b43/artifacts
+end_time: 1738183497289
+entry_point_name: ''
+experiment_id: '874411084966587007'
+lifecycle_stage: active
+run_id: a784f4b8b8504389bf1111442b9e5b43
+run_name: dashing-shrimp-981
+run_uuid: a784f4b8b8504389bf1111442b9e5b43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738183494184
+status: 3
+tags: []
+user_id: pvochkin
