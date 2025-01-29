@@ -33,10 +33,10 @@
 <img width="1671" alt="Снимок экрана 2025-01-30 в 00 24 41" src="https://github.com/user-attachments/assets/4fb7ca6e-963e-4ca4-a1c6-6f6d1d6e1d90" />
 <img width="1670" alt="Снимок экрана 2025-01-30 в 00 24 56" src="https://github.com/user-attachments/assets/a24d1415-78fb-434c-a946-04ae8765fcfc" />
 <img width="1670" alt="Снимок экрана 2025-01-30 в 00 25 07" src="https://github.com/user-attachments/assets/9be06dd2-d3b5-4939-bf34-3a2bc537a45e" />
-<img width="1666" alt="Снимок экрана 2025-01-30 в 00 58 54" src="https://github.com/user-attachments/assets/42181511-300f-4f8a-ade6-106969b5a327" />
 
 
 Как поработалось с ClearML:
+<img width="1666" alt="Снимок экрана 2025-01-30 в 00 58 54" src="https://github.com/user-attachments/assets/42181511-300f-4f8a-ade6-106969b5a327" />
 <img width="1671" alt="Снимок экрана 2025-01-30 в 00 59 10" src="https://github.com/user-attachments/assets/9fab5e8e-feb7-4698-b18d-c6f5ca18d9bb" />
 <img width="1670" alt="Снимок экрана 2025-01-30 в 00 59 27" src="https://github.com/user-attachments/assets/01d5fced-8932-4789-bb6e-17e5dd960112" />
 
