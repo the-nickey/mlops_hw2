@@ -47,32 +47,40 @@
 
 # Часть 2 - MLFlow
 
-График предсказаний
+График предсказаний линейной регрессии и случайного леса
+
 ![mlflow_prediction_plot](https://github.com/user-attachments/assets/a19078c7-f969-4dbb-9570-bfd194d3b227)
 
 Распределение ошибок линейной модели
+
 ![mlflow_linear_error_distribution](https://github.com/user-attachments/assets/42e62176-a1d3-43d7-a1a6-c2085d1a6be7)
 
 Распределение ошибок случайного леса
+
 ![mlflow_rf_error_distribution](https://github.com/user-attachments/assets/a7513eb9-668b-4f53-91d7-c3f472b5065f)
 
 Сопоставление метрик моделей
+
 ![mlflow_model_comparison](https://github.com/user-attachments/assets/f21c8715-7ec2-4f8b-9764-973dfdf221f7)
 
 
 
 # Часть 3 - ClearML
 
-График предсказаний
+График предсказаний полиномиальной регрессии и градиентного бустинга
+
 ![clearml_prediction_plot](https://github.com/user-attachments/assets/e04177ce-ad7e-4875-b97c-33f1033cde53)
 
 Распределение ошибок полиномиальной модели
+
 ![clearml_poly_error_distribution](https://github.com/user-attachments/assets/de61c938-eb1d-4d4e-8019-74ab11c0be66)
 
 Распределение ошибок градиентного бустинга
+
 ![clearml_gb_error_distribution](https://github.com/user-attachments/assets/0f054483-f644-44aa-8614-884154d4f9da)
 
 Сопоставление метрик моделей
+
 ![clearml_model_comparison](https://github.com/user-attachments/assets/cdb1eda1-161d-4ef6-88f7-01906c561970)
 
 
